@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+.body {
+    background: #313131;
+    }
+
+.navbar {
+    padding-right: 15px;
+    padding-left: 15px;
+    background: #0f0f0f;
+}
+
+.navdiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.clogo {
+    border-radius: 50%;
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+}
+
+
+li {
+    list-style: none;
+    display: inline-block;
+    color: white;
+    font-size:25px;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.wel {
+    color: #FFD700;
+    text-align: center;
+    margin: 50px;
+    font-size: 20px;
+}
+
+.slogan {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    padding-bottom: 40px;
+   
+}
+
+.service {
+    color: #FFD700;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.img {
+    background: #0f0f0f;
+    text-align: center;
+    align-items: center;
+    aspect-ratio: 9/16;
+    margin: 50px;
+    border-radius: 20px;
+    color: white;
+    font-size: 25px;
+}
+
+img {
+    border-radius: 10px;
+    margin: 30px;
+    height: 200px;
+    width: 200px;
+}
+
+.title {
+    font-size: 20px;
+    margin: 20px;
+    color: #FFD700;
+}
+
+.h {
+    font-size: 15px;
+    margin: 15px;
+    paddign-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.title-about {
+    text-align: center;
+    color: #FFD700;
+    margin: 50px;
+    font-size: 25px;
+}
+
+.about {
+    text-align: justify;
+    line-height: 40px;
+    margin: 15px;
+    color: white;
+    background-color: #0f0f0f;
+    border-radius: 20px;
+}
+
+.ab {
+    font-size: 10px;
+    text-style: bold; 
+    margin: 10px;
+}
+
+
+.nav-option a {
+    color: #fff;
+}
+
+.proj {
+    color: #ffd700;
+    text-align: center;
+    margin: 50px;
+    font-size: 20px;
+}
+
+.vids {
+    display: flex;
+    background: #0f0f0f;
+    aspect-ratio: 16/9;
+    align-items: center;
+    margin: 20px;
+    border-radius: 20px;
+    align-content: center;
+}
+
+.text {
+    color: #FFD700; 
+    font-size: 15px;
+    text-align: center;
+    margin: 5px;
+    
+}
+
+.vids video {
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.footer {
+    background: #0f0f0f;
+}
+
+
+.name {
+    display: flex;
+    justify-content: center;
+}
+
+.material-symbols-outlined {
+    margin: 50px;
+    font-size: 100px;
+    color: #ffd700;
+}
+
+.fa-solid.fa-phone {
+    font-size: 20px;
+    color: #FFD700;
+    margin: 20px;
+}
+
+.deet-wrapper {
+    display: flex;
+}
+
+.deet {
+    font-size: 15px;
+    padding-top: 40px;
+    color: #ffd700;
+    
+}
+
+.fa-regular.fa-envelope {
+    font-size: 40px;
+    color: #FFD700;
+    margin: 40px;
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+}
+
+.fa-brands.fa-youtube {
+    font-size: 25px;
+    color: #ffd700; 
+    paddign-right: 40px;      
+}
+
+.fa-brands.fa-tiktok {
+    font-size: 25px;
+    color: #ffd700;
+    padding-left: 40px;
+}
+
+.trademark {
+    color: white;
+    text-align: center;
+    opacity: 75%;
+}
+
+.trade-wrapper {
+    background: #0f0f0f;
+}
+
+
